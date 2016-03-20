@@ -6,7 +6,7 @@ A module to create and manage a Sequence board game.
 ## Installation
 
 1. Create a new Framer project.
-2. Put this module in the `modules` folder.
+2. Put the file `SequenceBoard.coffee` in the `modules` folder.
 3. Add this line at the top of your document.
 ```coffeescript
 {SequenceBoard} = require "SequenceBoard"
