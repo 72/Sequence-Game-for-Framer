@@ -87,6 +87,8 @@ Note: Don't use this method if your board has `autoStart` set to true. You don't
 
 ## Example 1: Basic setup
 
+- [Demo](http://share.framerjs.com/68qyh2wwc4s1/)
+
 Set 'Device' to No Device, then paste this.
 ```coffeescript
 {SequenceBoard} = require "SequenceBoard"
@@ -108,6 +110,8 @@ board.on 'Events.GameEnded', ->
 
 
 ## Example 2: Customized
+
+- [Demo](http://share.framerjs.com/v20ynocypvte/)
 
 Set 'Device' to No Device, then paste this.
 ```coffeescript
