@@ -2,10 +2,6 @@
 A module to create and manage a Sequence board game.
 
 
-## Examples
-A version of this game connected with Parse (rip parse).
-- [Sequence + Parse](http://setentaydos.com/frs/)
-
 
 ## Installation
 
@@ -138,7 +134,11 @@ board.on 'Events.GameEnded', ->
 		board.resetGame()
 ```
 
+## Example 3: With Leaderboard
 
+A version of this game connected with Parse (rip parse).
+I used an old version of this module + extra Framer bits + Parse.
+- [Sequence + Parse](http://setentaydos.com/frs/)
 
 
 ##Contact
